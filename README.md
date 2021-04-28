@@ -1,5 +1,5 @@
 ### Hi there 👋 
-
+My name is Suraj (pronounced as [Suu-ruhj](https://www.youtube.com/watch?v=pE3oWN995nU)). I go by [vadasambar](https://vadasambar.com/about/) on the internets. 
 <!--
 **vadasambar/vadasambar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
