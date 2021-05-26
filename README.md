@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Projects
+[google-search](https://github.com/vadasambar/google-search): a replica of google search results page in pure html and css <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="25" height="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="25" height="25"/>   
 [google-homepage](https://github.com/vadasambar/google-homepage): A replica of google search homepage <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="25" height="25"/>  
 [KanjiEtymLookup](https://github.com/vadasambar/KanjiEtymLookup): A gui program which takes a single kanji and pulls etymology and related information from chineseetymology.org, zhongwen and wictionary.org <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25" />  
 [Mouse Locator](https://github.com/vadasambar/Mouse-Locator): A gui program to find co-ordinates of cursor on screen. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25" />  
