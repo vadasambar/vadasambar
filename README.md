@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Projects
+[google-homepage](https://github.com/vadasambar/google-homepage): A replica of google search homepage <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="25" height="25"/>  
+[KanjiEtymLookup](https://github.com/vadasambar/KanjiEtymLookup): A gui program which takes a single kanji and pulls etymology and related information from chineseetymology.org, zhongwen and wictionary.org <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25" />  
+[Mouse Locator](https://github.com/vadasambar/Mouse-Locator): A gui program to find co-ordinates of cursor on screen. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25" />  
+[URLtoText](https://github.com/vadasambar/URLtoText):  A GUI program which fetches text from an URL (using lynx) and displays it. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25" />
