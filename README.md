@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can find my contribution to other projects [here](https://github.com/pulls?q=author%3Avadasambar+) and [here](https://github.com/issues?q=author%3Avadasambar+). 
-
 ### My Projects
 [Pema](https://github.com/vadasambar/pema): P|rometheus E|xporter for M|ongoDB A|tlas <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="25" height="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>    
 [spire-helm-chart](https://github.com/vadasambar/spire-helm-chart): Helm chart for SPIRE <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>  
@@ -28,3 +26,5 @@ You can find my contribution to other projects [here](https://github.com/pulls?q
 [KanjiEtymLookup](https://github.com/vadasambar/KanjiEtymLookup): A gui program which takes a single kanji and pulls etymology and related information from chineseetymology.org, zhongwen and wictionary.org <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25" />  
 [Mouse Locator](https://github.com/vadasambar/Mouse-Locator): A gui program to find co-ordinates of cursor on screen. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25" />  
 [URLtoText](https://github.com/vadasambar/URLtoText):  A GUI program which fetches text from an URL (using lynx) and displays it. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25" />
+
+You can find my contribution to other projects [here](https://github.com/pulls?q=author%3Avadasambar+) and [here](https://github.com/issues?q=author%3Avadasambar+). 
