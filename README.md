@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### [My Projects](./PROJECTS.md)
+### My Noteworthy Projects
+[Datadog Service](https://github.com/keptn-sandbox/datadog-service): SLI integration for Keptn <img src="https://raw.githubusercontent.com/keptn/community/main/branding/logos/keptn_icon.svg" alt="Keptn" width="25" height="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="25" height="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>  
+[Pema](https://github.com/vadasambar/pema): P|rometheus E|xporter for M|ongoDB A|tlas <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="25" height="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>    
+
+Full list [here](./PROJECTS.md)
 
 You can find my contribution to other projects [here](https://github.com/pulls?q=author%3Avadasambar+) and [here](https://github.com/issues?q=author%3Avadasambar+). 
