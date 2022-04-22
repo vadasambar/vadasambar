@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### My Projects
+[Datadog Service](https://github.com/keptn-sandbox/datadog-service): SLI integration for Keptn <img src="https://raw.githubusercontent.com/keptn/community/main/branding/logos/keptn_icon.svg" alt="Keptn" width="25" height="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="25" height="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>  
 [Pema](https://github.com/vadasambar/pema): P|rometheus E|xporter for M|ongoDB A|tlas <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="25" height="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>    
 [spire-helm-chart](https://github.com/vadasambar/spire-helm-chart): Helm chart for SPIRE <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>  
 [kindle_notes](https://github.com/vadasambar/kindle_notes): web page for my kindle clippings<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="25" height="25"/>    
