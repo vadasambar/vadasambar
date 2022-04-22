@@ -29,7 +29,8 @@ Full list [here](./CONTRIBUTIONS.md)
 - [How to become a Keptn contributor](https://vadasambar.com/post/kubernetes/keptn/how-to-become-a-keptn-contributor/)
 - [Dev setup for Keptn I](https://vadasambar.com/post/kubernetes/keptn/dev-setup/)
 - [Dev setup for Keptn II](https://vadasambar.com/post/kubernetes/keptn/dev-setup2/)
+- [How to Create Ephemeral Environments using Crossplane and ArgoCD?](https://www.infracloud.io/blogs/how-to-create-ephemeral-environments-using-crossplane-and-argocd/)
 
-Full list [here](https://vadasambar.com/)
+You can find the rest of them [here](https://vadasambar.com/)
 
 You can find my contribution to other projects [here](https://github.com/pulls?q=author%3Avadasambar+) and [here](https://github.com/issues?q=author%3Avadasambar+). 
