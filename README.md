@@ -21,4 +21,15 @@ Here are some ideas to get you started:
 
 Full list [here](./PROJECTS.md)
 
+### My Noteworthy Contributions
+
+Full list [here](./CONTRIBUTIONS.md)
+
+### My Noteworthy Blogposts
+- [How to become a Keptn contributor](https://vadasambar.com/post/kubernetes/keptn/how-to-become-a-keptn-contributor/)
+- [Dev setup for Keptn I](https://vadasambar.com/post/kubernetes/keptn/dev-setup/)
+- [Dev setup for Keptn II](https://vadasambar.com/post/kubernetes/keptn/dev-setup2/)
+
+Full list [here](https://vadasambar.com/)
+
 You can find my contribution to other projects [here](https://github.com/pulls?q=author%3Avadasambar+) and [here](https://github.com/issues?q=author%3Avadasambar+). 
