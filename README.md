@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Full list [here](./PROJECTS.md)
 
 ### My Noteworthy Contributions
-1. [feat: support yaml evaluator](https://github.com/open-feature/flagd/pull/206) <img src="https://raw.githubusercontent.com/open-feature/flagd/main/images/flagD.png" alt="FlagD" width="25" height="25"/>  
+1. [feat: support yaml evaluator](https://github.com/open-feature/flagd/pull/206) <img src="https://raw.githubusercontent.com/open-feature/flagd/main/images/flagD.png" alt="FlagD" height="25"/>  
 1. [refactor(cli): Use Viper to manage Keptn config](https://github.com/keptn/keptn/pull/5694) <img src="https://raw.githubusercontent.com/keptn/community/main/branding/logos/keptn_icon.svg" alt="Keptn" width="25" height="25"/>
 1. [fix(cli): switch automatic version check based on config](https://github.com/keptn/keptn/pull/5290) <img src="https://raw.githubusercontent.com/keptn/community/main/branding/logos/keptn_icon.svg" alt="Keptn" width="25" height="25"/>
 1. [fix(cli): skip version check on install](https://github.com/keptn/keptn/pull/5046) <img src="https://raw.githubusercontent.com/keptn/community/main/branding/logos/keptn_icon.svg" alt="Keptn" width="25" height="25"/>
