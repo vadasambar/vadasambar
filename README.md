@@ -34,6 +34,7 @@ Full list [here](./PROJECTS.md)
 You can find my contribution to other projects [here](https://github.com/pulls?q=author%3Avadasambar+) and [here](https://github.com/issues?q=author%3Avadasambar+) (you need to login to see them). 
 
 ### My Noteworthy Blogposts
+- [Understanding client-go listers and reflectors in the context of cluster-autoscaler](https://vadasambar.com/post/kubernetes/understanding-listers-and-reflectors-in-client-go/)
 - [Notes around my failed idea of `Patching Kubernetes nodes with fixes without restarting the nodes`](https://vadasambar.com/post/kubernetes/notes-for-executing-script-on-all-nodes/)
 - [How to become a Keptn contributor](https://vadasambar.com/post/kubernetes/keptn/how-to-become-a-keptn-contributor/)
 - [Dev setup for Keptn I](https://vadasambar.com/post/kubernetes/keptn/dev-setup/)
