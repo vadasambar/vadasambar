@@ -23,17 +23,19 @@ Here are some ideas to get you started:
 Full list [here](./PROJECTS.md)
 
 ### My Noteworthy Contributions
-1. [feat: support yaml evaluator](https://github.com/open-feature/flagd/pull/206) <img src="https://raw.githubusercontent.com/open-feature/flagd/main/images/flagD.png" alt="FlagD" height="25"/>  
-1. [refactor(cli): Use Viper to manage Keptn config](https://github.com/keptn/keptn/pull/5694) <img src="https://raw.githubusercontent.com/keptn/community/main/branding/logos/keptn_icon.svg" alt="Keptn" width="25" height="25"/>
-1. [fix(cli): switch automatic version check based on config](https://github.com/keptn/keptn/pull/5290) <img src="https://raw.githubusercontent.com/keptn/community/main/branding/logos/keptn_icon.svg" alt="Keptn" width="25" height="25"/>
-1. [fix(cli): skip version check on install](https://github.com/keptn/keptn/pull/5046) <img src="https://raw.githubusercontent.com/keptn/community/main/branding/logos/keptn_icon.svg" alt="Keptn" width="25" height="25"/>
-1. [Support cli uninstall](https://github.com/vmware-tanzu/velero/pull/3399) <img src="https://cdn-images-1.medium.com/max/1600/1*-9mb3AKnKdcL_QD3CMnthQ.png" alt="Keptn" width="25" height="25"/> 
-1. [Implement TLS authentication for kafka mqt](https://github.com/fission/fission/pull/1300) <img src="https://fission.io/images/fission-logo-white.svg" alt="Keptn" width="25" height="25"/> 
-1. [Make NewDeployment wait timeout configurable](https://github.com/fission/fission/pull/1260) <img src="https://fission.io/images/fission-logo-white.svg" alt="Keptn" width="25" height="25"/> 
+1. [Contributions to Kubernetes cluster-autoscaler](https://github.com/kubernetes/autoscaler/pulls?q=is%3Apr+author%3Avadasambar) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>
+2. [feat: support yaml evaluator](https://github.com/open-feature/flagd/pull/206) <img src="https://raw.githubusercontent.com/open-feature/flagd/main/images/flagD.png" alt="FlagD" height="25"/>  
+3. [refactor(cli): Use Viper to manage Keptn config](https://github.com/keptn/keptn/pull/5694) <img src="https://raw.githubusercontent.com/keptn/community/main/branding/logos/keptn_icon.svg" alt="Keptn" width="25" height="25"/>
+4. [fix(cli): switch automatic version check based on config](https://github.com/keptn/keptn/pull/5290) <img src="https://raw.githubusercontent.com/keptn/community/main/branding/logos/keptn_icon.svg" alt="Keptn" width="25" height="25"/>
+5. [fix(cli): skip version check on install](https://github.com/keptn/keptn/pull/5046) <img src="https://raw.githubusercontent.com/keptn/community/main/branding/logos/keptn_icon.svg" alt="Keptn" width="25" height="25"/>
+6. [Support cli uninstall](https://github.com/vmware-tanzu/velero/pull/3399) <img src="https://cdn-images-1.medium.com/max/1600/1*-9mb3AKnKdcL_QD3CMnthQ.png" alt="Keptn" width="25" height="25"/> 
+7. [Implement TLS authentication for kafka mqt](https://github.com/fission/fission/pull/1300) <img src="https://fission.io/images/fission-logo-white.svg" alt="Keptn" width="25" height="25"/> 
+8. [Make NewDeployment wait timeout configurable](https://github.com/fission/fission/pull/1260) <img src="https://fission.io/images/fission-logo-white.svg" alt="Keptn" width="25" height="25"/> 
 
 You can find my contribution to other projects [here](https://github.com/pulls?q=author%3Avadasambar+) and [here](https://github.com/issues?q=author%3Avadasambar+) (you need to login to see them). 
 
 ### My Noteworthy Blogposts
+- [Would cluster-autoscaler consider my soft constraints?](https://vadasambar.com/post/kubernetes/would-ca-consider-my-soft-constraints/)
 - [Understanding client-go listers and reflectors in the context of cluster-autoscaler](https://vadasambar.com/post/kubernetes/understanding-listers-and-reflectors-in-client-go/)
 - [Notes around my failed idea of `Patching Kubernetes nodes with fixes without restarting the nodes`](https://vadasambar.com/post/kubernetes/notes-for-executing-script-on-all-nodes/)
 - [How to become a Keptn contributor](https://vadasambar.com/post/kubernetes/keptn/how-to-become-a-keptn-contributor/)
