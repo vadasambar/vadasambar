@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 12. [Implement TLS authentication for kafka mqt](https://github.com/fission/fission/pull/1300) <img src="https://fission.io/images/fission-logo-white.svg" alt="Keptn" width="25" height="25"/> 
 13. [Make NewDeployment wait timeout configurable](https://github.com/fission/fission/pull/1260) <img src="https://fission.io/images/fission-logo-white.svg" alt="Keptn" width="25" height="25"/> 
 
-You can find my contribution to other projects [here](https://github.com/pulls?q=author%3Avadasambar+) and [here](https://github.com/issues?q=author%3Avadasambar+) (you need to login to see them). 
+You can find my contribution to other projects [here](https://github.com/pulls?q=is%3Apr+author%3Avadasambar+archived%3Afalse+) (you need to login to see them). 
 
 ### My Noteworthy Projects
 [kico](https://github.com/vadasambar/kico): kico shows incoming connections to your pod(s) from other pods and suggests a NetworkPolicy to allow those connections <img src="https://raw.githubusercontent.com/vadasambar/kico/main/images/logo_plain.svg" alt="Kico" width="25" height="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="25" height="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>  
