@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My Noteworthy Contributions
-1. [feat: support --scale-down-delay-after-* per nodegroup](https://github.com/kubernetes/autoscaler/pull/5729) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>
-2. [feat: implement kwok cloud provider](https://github.com/kubernetes/autoscaler/pull/5820) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>
-3. [feat: support custom scheduler config (without extenders)](https://github.com/kubernetes/autoscaler/pull/5708) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>
-4. [feat: set `IgnoreDaemonSetsUtilization` per nodegroup for AWS](https://github.com/kubernetes/autoscaler/pull/5672) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>  
+1. [feat: wip max in-flight pulls](https://github.com/warm-metal/csi-driver-image/pull/81)
+2. [feat: support --scale-down-delay-after-* per nodegroup](https://github.com/kubernetes/autoscaler/pull/5729) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>
+3. [feat: implement kwok cloud provider](https://github.com/kubernetes/autoscaler/pull/5820) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>
+4. [feat: support custom scheduler config (without extenders)](https://github.com/kubernetes/autoscaler/pull/5708) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>
+5. [feat: set `IgnoreDaemonSetsUtilization` per nodegroup for AWS](https://github.com/kubernetes/autoscaler/pull/5672) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>  
 4. [feat: async image pull and mount](https://github.com/warm-metal/csi-driver-image/pull/71)  
 5. [feat: add annotation to ignore local storage volume during scale down](https://github.com/kubernetes/autoscaler/pull/5594) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>  
 6. [feat: check only controller ref to decide if a pod is replicated](https://github.com/kubernetes/autoscaler/pull/5507) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>
