@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My Noteworthy Contributions
-1. [WIP] [feat: wip max in-flight pulls](https://github.com/warm-metal/csi-driver-image/pull/81)
+# 1. [WIP] [feat: wip max in-flight pulls](https://github.com/warm-metal/csi-driver-image/pull/81)
 2. [feat: support --scale-down-delay-after-* per nodegroup](https://github.com/kubernetes/autoscaler/pull/5729) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>
 3. [feat: implement kwok cloud provider](https://github.com/kubernetes/autoscaler/pull/5820) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>
 4. [feat: support custom scheduler config (without extenders)](https://github.com/kubernetes/autoscaler/pull/5708) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"/>
